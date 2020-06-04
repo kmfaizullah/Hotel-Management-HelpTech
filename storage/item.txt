@@ -1,0 +1,2 @@
+Double  bed suit,2000.0,1
+Single Suit,1350.0,150
